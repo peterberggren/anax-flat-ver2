@@ -9,8 +9,10 @@ Ramverket Anax-flat är skapat av [Mikael Roos](https://mikaelroos.se) (mos@dbwe
 
 Källkoden för ursprungssidan finns i GitHub-repot [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
+
 Peters bearbetade version finns i GitHub-repot [peterberggren/anax-flat-ver2](https://github.com/peterberggren/anax-flat-ver2).
 
-<div style="border: 3px solid black; overflow: auto markdown=1">
-<img src="https://getflywheel.com/wp-content/uploads/2016/08/css-grid-layouts-grid-working.jpg" style="float: right">
-</div>
+Peters bearbetade version finns i GitHub-repot [peterberggren/anax-flat-theme](https://github.com/peterberggren/anax-flat-theme).
+
+
+![Bild på grid](https://getflywheel.com/wp-content/uploads/2016/08/css-grid-layouts-grid-working.jpg)
