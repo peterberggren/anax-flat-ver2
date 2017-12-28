@@ -15,16 +15,28 @@ return [
         "items" => [
 
             "report" => [
-                "text"  => t("Report"),
+                "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Reports from kmom assignments"),
+                "title" => t("Redovisningar från kmom-uppgifter"),
                 "mark-if-parent" => true,
             ],
 
             "about" => [
-                "text"  => t("About"),
+                "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("Om den här sidan")
+            ],
+
+            "Grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "title" => t("Vertikalt grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography?hgrid"),
+                "title" => t("Horisontellt grid")
             ],
         ],
     ],

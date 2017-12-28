@@ -6,10 +6,19 @@
 return [
 
     "separator" => "------------------------------------------------",
-    
+
     "themes" => [
 
         "separator0" => "------------------------------------------------",
+
+        "style.less"      => [
+            "title"      => "My main theme",
+            "class"      => "",
+            "stylesheets" => [
+                "css/style.min.css"
+            ]
+        ],
+
 
         "base"      => [
             "title"      => "Minimal style, only the plain base",
@@ -24,6 +33,16 @@ return [
             "class"      => "",
             "stylesheets" => [
                 "css/default.min.css"
+            ]
+        ],
+
+        "separator01" => "------------------------------------------------",
+
+        "vgrid"      => [
+            "title"      => "Verticalt grid",
+            "class"      => "",
+            "stylesheets" => [
+                "css/vgrid.min.css"
             ]
         ],
 
