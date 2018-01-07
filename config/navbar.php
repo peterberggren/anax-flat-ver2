@@ -38,6 +38,21 @@ return [
                 "url"   => $this->di->get("url")->create("typography?hgrid"),
                 "title" => t("Horisontellt grid")
             ],
+            "theme-selector" => [
+                "text"  => t("Tema-väljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Tema-väljare")
+            ],
+            "Tema" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Mina olika teman")
+            ],
+            "Analys" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis/"),
+                "title" => t("Mina analyser")
+            ],
         ],
     ],
 
@@ -66,6 +81,32 @@ return [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+            "Grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "title" => t("Vertikalt grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography?hgrid"),
+                "title" => t("Horisontellt grid")
+            ],
+            "theme-selector" => [
+                "text"  => t("Tema-väljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Tema-väljare")
+            ],
+            "Tema" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Mina olika teman")
+            ],
+            "Analys" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis/"),
+                "title" => t("Mina analyser")
             ],
         ],
     ],

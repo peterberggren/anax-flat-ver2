@@ -1,4 +1,4 @@
-Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
+Copyright &copy; 2017-2018 [Peter Berggren](https://sites.google.com/berggren.im/peter/startsida)
 
 * [License](license)
 * [Cookies](cookies)

@@ -25,8 +25,9 @@ return [
             //"stylesheets" => ["css/default.min.css"],
             //"stylesheets" => ["css/style.min.css"],
             "stylesheets" => [
-                "css/style.min.css",
-                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+                "css/default.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+                "https://fonts.googleapis.com/css?family=Boogaloo|Share|Shadows_Into_Light_Two|Neucha|Roboto|Economica"
             ],
             "styleInline" => null,
 
