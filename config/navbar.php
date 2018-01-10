@@ -53,6 +53,16 @@ return [
                 "url"   => $this->di->get("url")->create("analysis/"),
                 "title" => t("Mina analyser")
             ],
+            "Bilder" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Testsida för bilder")
+            ],
+            "Blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Min bild-blogg")
+            ],
         ],
     ],
 
@@ -107,6 +117,16 @@ return [
                 "text"  => t("Analys"),
                 "url"   => $this->di->get("url")->create("analysis/"),
                 "title" => t("Mina analyser")
+            ],
+            "Bilder" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Testsida för bilder")
+            ],
+            "Blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Min bild-blogg")
             ],
         ],
     ],
