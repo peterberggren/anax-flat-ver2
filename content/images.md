@@ -31,7 +31,7 @@ Här ser vi enbart den övre vallmon. Utskuren med hjälp av Cimage:s "crop"-fun
 <br>
 ##Utanför Lissabon
 
-Nedan en bild från en strand utanför Lissabon. Bilden är centrerad och storleken är bredden är förminskad till 400.
+Nedan en bild från en strand utanför Lissabon. Bilden är centrerad och bredden är förminskad till 400.
 
 [FIGURE src="image/bsurf.jpg?w=400" class="center" caption="Original, förminskad till bredd=400, centrerad"]
 
@@ -60,6 +60,10 @@ Dags för några sociala nyfikna kameler!
 De lever i täta grupper och tittar alltid åt samma håll.
 Bilden är original, men begränsad till 350 pixlars bredd.
 
+Dags för några sociala nyfikna kameler!
+De lever i täta grupper och tittar alltid åt samma håll.
+Bilden är original, men begränsad till 350 pixlars bredd.
+
 
 [FIGURE src="image/bkameler.jpg?w=400&cf&a=45,46,44,43&f0=brightness,-40&f1=contrast,-10&f2=colorize,0,-20,-20,0&sharpen" caption="Större, närmare, dock filtrerad" class="left"]
 
@@ -67,10 +71,11 @@ Här får vi en närmare, något större, dock behandlad, blick på djuren.
 
 Bilden behandlades med filtren brightness, contrast, colorize och sharpen.
 
-<br>
-<br>
-<br>
-<br>
+Här får vi en närmare, något större, dock behandlad, blick på djuren.
+
+Bilden behandlades med filtren brightness, contrast, colorize och sharpen.
+
+
 
 ##Skärmdumpar
 

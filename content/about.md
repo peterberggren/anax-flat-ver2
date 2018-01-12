@@ -15,6 +15,4 @@ Ramverket Anax-flat är skapat av [Mikael Roos](https://mikaelroos.se) (mos@dbwe
 * [Min bearbetade version av allt (inklusive temat).](https://github.com/peterberggren/anax-flat-ver2).
 
 
-
-
-![Bild på grid](https://getflywheel.com/wp-content/uploads/2016/08/css-grid-layouts-grid-working.jpg)
+[FIGURE src="https://getflywheel.com/wp-content/uploads/2016/08/css-grid-layouts-grid-working.jpg?w=90%" class="center"]

@@ -88,5 +88,54 @@ return [
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "theme-1"       => [
+            "title"      => "Elements 3, 6 och 7",
+            "class"      => "theme-1",
+            "stylesheets" => [
+                "css/theme-1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "theme-2"       => [
+            "title"      => "Elements 4, 8 och 9",
+            "class"      => "theme-2",
+            "stylesheets" => [
+                "css/theme-2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "theme-3"       => [
+            "title"      => "Elements 5 och 10",
+            "class"      => "theme-3",
+            "stylesheets" => [
+                "css/theme-3.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "separator4" => "------------------------------------------------",
+
+        "theme-4"       => [
+            "title"      => "Principle - Balance-Unity-Harmony",
+            "class"      => "theme-4",
+            "stylesheets" => [
+                "css/theme-4.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "theme-5"       => [
+            "title"      => "Principles - Perspective-Depth-Movement-Direction",
+            "class"      => "theme-5",
+            "stylesheets" => [
+                "css/theme-5.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
     ]
 ];
