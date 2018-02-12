@@ -1,7 +1,9 @@
 Design-principer
 ==============================================
 
-Du hittar de olika temana i [tema-väljaren.](http://localhost:8080/dbwebb/design/me/anax-flat/htdocs/theme-selector)
+Du hittar de olika temana i
+[tema-väljaren.](http://www.student.bth.se/~bjbe17/dbwebb-kurser/design/me/anax-flat/htdocs/theme-selector)
+
 
 ##Bakgrundsmaterial
 Jag läste och använde mig av alla källor som angavs i momentet, speciellt wikipedia-artikeln [Visual design elements och principles](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles) .
